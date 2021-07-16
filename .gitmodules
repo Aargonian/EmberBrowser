@@ -1,0 +1,3 @@
+[submodule "lib/EmberLibCpp"]
+	path = lib/EmberLibCpp
+	url = https://github.com/aargonian/EmberLibCpp
